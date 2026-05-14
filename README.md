@@ -1,4 +1,4 @@
-# GOV.UK Design System
+# GOV.UK Design System - Advanced version
 
 This repository contains the code for the GOV.UK Design System website. To find the code we provide for reuse by services, go to the [govuk-frontend repository](https://github.com/alphagov/govuk-frontend).
 
